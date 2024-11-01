@@ -272,6 +272,7 @@ img {
 }
 
 .rocket {
+    pointer-events: all;
     background-size: cover !important;
     background-repeat: no-repeat;
     background-position: center top;
