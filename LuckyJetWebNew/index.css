@@ -28,7 +28,8 @@
     margin-top: 90px;
     margin-left: 0px;
     border-radius: 10px;
-
+    pointer-events: none;
+    overflow: hidden;
 }
 
 iframe {
